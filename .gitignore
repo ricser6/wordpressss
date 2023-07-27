@@ -12,13 +12,13 @@
 #/wp-content/themes/index.php
 #/wp-includes/
 #/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+#/license.txt
+#/readme.html
+#/wp-*.php
+#/xmlrpc.php
 
 # Configuration
-wp-config.php
+#wp-config.php
 
 # Example themes
 /wp-content/themes/twenty*/
